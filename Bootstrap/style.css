@@ -1,0 +1,26 @@
+h1 {
+    color: gold;
+    text-align: topleft;
+    font-style: italic;
+
+}body{
+    background-image: url(images/giphy.gif);
+    background-size: cover;
+    width: 100%
+
+}
+p {
+    text-align: right;
+    color: red;
+    font-size: 16px;
+    padding: 3px;
+    font-style: initial;
+}
+div{
+     border: 2px solid transparent;
+}
+blockquote {
+    border-left: 4px solid #ffffff;
+    font-style: italic;
+    height: 100px;
+}
